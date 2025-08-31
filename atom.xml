@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zhesphere.github.io</id>
+    <id>https://ZheSphere.github.io</id>
     <title>哲哲折</title>
     <subtitle></subtitle>
     <icon>https://zhesphere.github.io/assets/favicon.ico</icon>
-    <link href="https://zhesphere.github.io" />
+    <link href="https://ZheSphere.github.io" />
     <author>
       <name>lyz</name>
     </author>

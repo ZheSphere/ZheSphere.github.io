@@ -10,6 +10,26 @@
     </author>
     <updated>2025-09-01T12:33:06.000Z</updated>
     <entry>
+        <id>https://zhesphere.github.io/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/</id>
+        <title>器件工程师</title>
+        <link rel="alternate" href="https://zhesphere.github.io/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/"/>
+        <content type="html">&lt;h1 id=&#34;器件工程师&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#器件工程师&#34;&gt;#&lt;/a&gt; 器件工程师&lt;/h1&gt;
+&lt;h2 id=&#34;硬件流程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#硬件流程&#34;&gt;#&lt;/a&gt; 硬件流程&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;器件(选型、维护)&lt;/li&gt;
+&lt;li&gt;电子设计(搭建板子)&lt;/li&gt;
+&lt;li&gt;layout&lt;/li&gt;
+&lt;li&gt;硬件测试(白盒、黑盒[整机、制程稳定])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;选型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选型&#34;&gt;#&lt;/a&gt; 选型&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;厂家资质&lt;/li&gt;
+&lt;li&gt;满足自己的应用(充电宝到电池，电压保护)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <updated>2025-09-01T12:33:06.000Z</updated>
+    </entry>
+    <entry>
         <id>https://zhesphere.github.io/2025/09/01/%E5%AD%A6%E4%B9%A0/</id>
         <title>学习</title>
         <link rel="alternate" href="https://zhesphere.github.io/2025/09/01/%E5%AD%A6%E4%B9%A0/"/>
@@ -116,26 +136,6 @@
 &lt;p&gt;&amp;lt;font face=&amp;quot;楷体&amp;quot; color=#00ffff size=5&amp;gt;改变文字格式&amp;lt;/font&amp;gt;&lt;/p&gt;
 </content>
         <category term="markdown" scheme="https://zhesphere.github.io/tags/markdown/" />
-        <updated>2025-09-01T12:33:06.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://zhesphere.github.io/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/</id>
-        <title>器件工程师</title>
-        <link rel="alternate" href="https://zhesphere.github.io/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/"/>
-        <content type="html">&lt;h1 id=&#34;器件工程师&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#器件工程师&#34;&gt;#&lt;/a&gt; 器件工程师&lt;/h1&gt;
-&lt;h2 id=&#34;硬件流程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#硬件流程&#34;&gt;#&lt;/a&gt; 硬件流程&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;器件(选型、维护)&lt;/li&gt;
-&lt;li&gt;电子设计(搭建板子)&lt;/li&gt;
-&lt;li&gt;layout&lt;/li&gt;
-&lt;li&gt;硬件测试(白盒、黑盒[整机、制程稳定])&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;选型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选型&#34;&gt;#&lt;/a&gt; 选型&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;厂家资质&lt;/li&gt;
-&lt;li&gt;满足自己的应用(充电宝到电池，电压保护)&lt;/li&gt;
-&lt;/ul&gt;
-</content>
         <updated>2025-09-01T12:33:06.000Z</updated>
     </entry>
     <entry>

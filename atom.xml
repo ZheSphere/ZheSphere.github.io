@@ -1,38 +1,18 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zhesphere.github.io</id>
+    <id>https://zsphere.top</id>
     <title>哲哲折</title>
     <subtitle></subtitle>
-    <icon>https://zhesphere.github.io/assets/favicon.ico</icon>
-    <link href="https://zhesphere.github.io" />
+    <icon>https://zsphere.top/assets/favicon.ico</icon>
+    <link href="https://zsphere.top" />
     <author>
       <name>lyz</name>
     </author>
     <updated>2025-09-01T12:33:06.000Z</updated>
     <entry>
-        <id>https://zhesphere.github.io/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/</id>
-        <title>器件工程师</title>
-        <link rel="alternate" href="https://zhesphere.github.io/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/"/>
-        <content type="html">&lt;h1 id=&#34;器件工程师&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#器件工程师&#34;&gt;#&lt;/a&gt; 器件工程师&lt;/h1&gt;
-&lt;h2 id=&#34;硬件流程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#硬件流程&#34;&gt;#&lt;/a&gt; 硬件流程&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;器件(选型、维护)&lt;/li&gt;
-&lt;li&gt;电子设计(搭建板子)&lt;/li&gt;
-&lt;li&gt;layout&lt;/li&gt;
-&lt;li&gt;硬件测试(白盒、黑盒[整机、制程稳定])&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;选型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选型&#34;&gt;#&lt;/a&gt; 选型&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;厂家资质&lt;/li&gt;
-&lt;li&gt;满足自己的应用(充电宝到电池，电压保护)&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-        <updated>2025-09-01T12:33:06.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://zhesphere.github.io/2025/09/01/%E5%AD%A6%E4%B9%A0/</id>
+        <id>https://zsphere.top/2025/09/01/%E5%AD%A6%E4%B9%A0/</id>
         <title>学习</title>
-        <link rel="alternate" href="https://zhesphere.github.io/2025/09/01/%E5%AD%A6%E4%B9%A0/"/>
+        <link rel="alternate" href="https://zsphere.top/2025/09/01/%E5%AD%A6%E4%B9%A0/"/>
         <content type="html">&lt;h1 id=&#34;学习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;斜体&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;粗体&lt;/strong&gt;&lt;/p&gt;
@@ -135,13 +115,33 @@
 &amp;lt;/table&amp;gt;&lt;/p&gt;
 &lt;p&gt;&amp;lt;font face=&amp;quot;楷体&amp;quot; color=#00ffff size=5&amp;gt;改变文字格式&amp;lt;/font&amp;gt;&lt;/p&gt;
 </content>
-        <category term="markdown" scheme="https://zhesphere.github.io/tags/markdown/" />
+        <category term="markdown" scheme="https://zsphere.top/tags/markdown/" />
         <updated>2025-09-01T12:33:06.000Z</updated>
     </entry>
     <entry>
-        <id>https://zhesphere.github.io/2025/09/01/component/dc-dc/DC-DC/</id>
+        <id>https://zsphere.top/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/</id>
+        <title>器件工程师</title>
+        <link rel="alternate" href="https://zsphere.top/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/"/>
+        <content type="html">&lt;h1 id=&#34;器件工程师&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#器件工程师&#34;&gt;#&lt;/a&gt; 器件工程师&lt;/h1&gt;
+&lt;h2 id=&#34;硬件流程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#硬件流程&#34;&gt;#&lt;/a&gt; 硬件流程&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;器件(选型、维护)&lt;/li&gt;
+&lt;li&gt;电子设计(搭建板子)&lt;/li&gt;
+&lt;li&gt;layout&lt;/li&gt;
+&lt;li&gt;硬件测试(白盒、黑盒[整机、制程稳定])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;选型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选型&#34;&gt;#&lt;/a&gt; 选型&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;厂家资质&lt;/li&gt;
+&lt;li&gt;满足自己的应用(充电宝到电池，电压保护)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <updated>2025-09-01T12:33:06.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://zsphere.top/2025/09/01/component/dc-dc/DC-DC/</id>
         <title>DC-DC</title>
-        <link rel="alternate" href="https://zhesphere.github.io/2025/09/01/component/dc-dc/DC-DC/"/>
+        <link rel="alternate" href="https://zsphere.top/2025/09/01/component/dc-dc/DC-DC/"/>
         <content type="html">&lt;h1 id=&#34;dc-dc开关电源&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dc-dc开关电源&#34;&gt;#&lt;/a&gt; DC-DC(开关电源)&lt;/h1&gt;
 &lt;h2 id=&#34;厂商&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#厂商&#34;&gt;#&lt;/a&gt; 厂商&lt;/h2&gt;
 &lt;ul&gt;
@@ -211,8 +211,9 @@
 &lt;strong&gt;DC-DC&lt;/strong&gt;&lt;br /&gt;
 大电流用&lt;/p&gt;
 </content>
-        <category term="器件学习，DC-DC" scheme="https://zhesphere.github.io/categories/%E5%99%A8%E4%BB%B6%E5%AD%A6%E4%B9%A0%EF%BC%8CDC-DC/" />
-        <category term="器件学习" scheme="https://zhesphere.github.io/tags/%E5%99%A8%E4%BB%B6%E5%AD%A6%E4%B9%A0/" />
+        <category term="器件学习" scheme="https://zsphere.top/categories/component/" />
+        <category term="DC-DC" scheme="https://zsphere.top/categories/component/dc-dc/" />
+        <category term="器件学习" scheme="https://zsphere.top/tags/%E5%99%A8%E4%BB%B6%E5%AD%A6%E4%B9%A0/" />
         <updated>2025-09-01T12:33:06.000Z</updated>
     </entry>
 </feed>

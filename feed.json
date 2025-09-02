@@ -2,21 +2,13 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "哲哲折",
     "subtitle": "",
-    "icon": "https://zhesphere.github.io/assets/favicon.ico",
+    "icon": "https://zsphere.top/assets/favicon.ico",
     "description": "Exploring Tech & Life",
-    "home_page_url": "https://zhesphere.github.io",
+    "home_page_url": "https://zsphere.top",
     "items": [
         {
-            "id": "https://zhesphere.github.io/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/",
-            "url": "https://zhesphere.github.io/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/",
-            "title": "器件工程师",
-            "date_published": "2025-09-01T12:33:06.000Z",
-            "content_html": "<h1 id=\"器件工程师\"><a class=\"anchor\" href=\"#器件工程师\">#</a> 器件工程师</h1>\n<h2 id=\"硬件流程\"><a class=\"anchor\" href=\"#硬件流程\">#</a> 硬件流程</h2>\n<ul>\n<li>器件(选型、维护)</li>\n<li>电子设计(搭建板子)</li>\n<li>layout</li>\n<li>硬件测试(白盒、黑盒[整机、制程稳定])</li>\n</ul>\n<h2 id=\"选型\"><a class=\"anchor\" href=\"#选型\">#</a> 选型</h2>\n<ul>\n<li>厂家资质</li>\n<li>满足自己的应用(充电宝到电池，电压保护)</li>\n</ul>\n",
-            "tags": []
-        },
-        {
-            "id": "https://zhesphere.github.io/2025/09/01/%E5%AD%A6%E4%B9%A0/",
-            "url": "https://zhesphere.github.io/2025/09/01/%E5%AD%A6%E4%B9%A0/",
+            "id": "https://zsphere.top/2025/09/01/%E5%AD%A6%E4%B9%A0/",
+            "url": "https://zsphere.top/2025/09/01/%E5%AD%A6%E4%B9%A0/",
             "title": "学习",
             "date_published": "2025-09-01T12:33:06.000Z",
             "content_html": "<h1 id=\"学习\"><a class=\"anchor\" href=\"#学习\">#</a> 学习</h1>\n<p><em>斜体</em></p>\n<p><strong>粗体</strong></p>\n<blockquote>\n<p>这是一个引用</p>\n</blockquote>\n<p>[这是zz的主页]（<a href=\"https://zhesphere.github.io\">https://zhesphere.github.io</a>）</p>\n<p>*无序列表1</p>\n<p>+无序列表2</p>\n<p>​\t+无序列表2.1</p>\n<p>-无序列表3</p>\n<ol>\n<li>有序列表1\n<ol>\n<li>有序列表1.1</li>\n</ol>\n</li>\n<li>有序列表2</li>\n<li>有序列表3</li>\n</ol>\n<hr />\n<hr />\n<p><s>这是要被删除的文字</s></p>\n<p>&lt;u&gt;这行文字已被添加下划线&lt;/u&gt;</p>\n<p><code>Hello world</code></p>\n<pre class=\"shiki shiki-themes vitesse-light vitesse-dark\" style=\"background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee\" tabindex=\"0\"><code class=\"language-python\"><span class=\"line\"><span style=\"color:#393A34;--shiki-dark:#DBD7CAEE\">python</span></span>\n<span class=\"line\"><span style=\"color:#393A34;--shiki-dark:#DBD7CAEE\">python</span></span></code></pre>\n<table>\n<thead>\n<tr>\n<th>项目</th>\n<th>供应商</th>\n<th>数量</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>dad</td>\n<td>dads</td>\n<td>dada</td>\n</tr>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n<tbody>\n<tr>\n<td>:----</td>\n<td>:--------:</td>\n<td>------:</td>\n</tr>\n</tbody>\n<tbody>\n<tr>\n<td>锁片</td>\n<td>德利</td>\n<td>1PCS</td>\n</tr>\n</tbody>\n<tbody>\n<tr>\n<td>端子林鑫</td>\n<td>2Pcs</td>\n</tr>\n</tbody>\n</table>\n<p>dsad</p>\n<p>使用Markdown<a href=\"Markdown%E6%98%AF%E4%B8%80%E7%A7%8D%E7%BA%AF%E6%96%87%E6%9C%AC%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80\">^1</a>可以效率的书写文档，直接转换成HTML[<sup>2]，你可以使用Typora[</sup>T]编辑器进行书写</p>\n<p>[^2]:HyperText Mrakup Language 超文本标记语言<br />\n[^T]:NEW WAY TO READ &amp; WRITE MARKDOWN</p>\n<p>\\</p>\n<p>*</p>\n<p>-</p>\n<p>+</p>\n<p>.</p>\n<ul class=\"task-list\">\n<li class=\"task-list-item\">\n<p><input type=\"checkbox\" id=\"cbx_0\" disabled=\"true\" /><label for=\"cbx_0\"> 未完成</label></p>\n</li>\n<li class=\"task-list-item\">\n<p><input type=\"checkbox\" id=\"cbx_1\" checked=\"true\" disabled=\"true\" /><label for=\"cbx_1\"> 已完成</label></p>\n</li>\n</ul>\n<p><span class=\"katex-display\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><semantics><mrow><mi>E</mi><mo>=</mo><mi>m</mi><msup><mi>c</mi><mn>2</mn></msup></mrow><annotation encoding=\"application/x-tex\">E=mc^2 \n</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height:0.6833em;\"></span><span class=\"mord mathnormal\" style=\"margin-right:0.05764em;\">E</span><span class=\"mspace\" style=\"margin-right:0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right:0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height:0.8641em;\"></span><span class=\"mord mathnormal\">m</span><span class=\"mord\"><span class=\"mord mathnormal\">c</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height:0.8641em;\"><span style=\"top:-3.113em;margin-right:0.05em;\"><span class=\"pstrut\" style=\"height:2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span></span></span></span></span></p>\n<p>&lt;table&gt;<br />\n&lt;tr&gt;<br />\n&lt;th rowspan=&quot;2&quot;&gt;值班人员&lt;/th&gt;<br />\n&lt;th&gt;星期一&lt;/th&gt;<br />\n&lt;th&gt;星期二&lt;/th&gt;<br />\n&lt;th&gt;星期三&lt;/th&gt;<br />\n&lt;/tr&gt;<br />\n&lt;tr&gt;<br />\n&lt;td&gt;李强&lt;/td&gt;<br />\n&lt;td&gt;张明&lt;/td&gt;<br />\n&lt;td&gt;王平&lt;/td&gt;<br />\n&lt;/tr&gt;<br />\n&lt;/table&gt;</p>\n<p>&lt;font face=&quot;楷体&quot; color=#00ffff size=5&gt;改变文字格式&lt;/font&gt;</p>\n",
@@ -25,13 +17,22 @@
             ]
         },
         {
-            "id": "https://zhesphere.github.io/2025/09/01/component/dc-dc/DC-DC/",
-            "url": "https://zhesphere.github.io/2025/09/01/component/dc-dc/DC-DC/",
+            "id": "https://zsphere.top/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/",
+            "url": "https://zsphere.top/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/",
+            "title": "器件工程师",
+            "date_published": "2025-09-01T12:33:06.000Z",
+            "content_html": "<h1 id=\"器件工程师\"><a class=\"anchor\" href=\"#器件工程师\">#</a> 器件工程师</h1>\n<h2 id=\"硬件流程\"><a class=\"anchor\" href=\"#硬件流程\">#</a> 硬件流程</h2>\n<ul>\n<li>器件(选型、维护)</li>\n<li>电子设计(搭建板子)</li>\n<li>layout</li>\n<li>硬件测试(白盒、黑盒[整机、制程稳定])</li>\n</ul>\n<h2 id=\"选型\"><a class=\"anchor\" href=\"#选型\">#</a> 选型</h2>\n<ul>\n<li>厂家资质</li>\n<li>满足自己的应用(充电宝到电池，电压保护)</li>\n</ul>\n",
+            "tags": []
+        },
+        {
+            "id": "https://zsphere.top/2025/09/01/component/dc-dc/DC-DC/",
+            "url": "https://zsphere.top/2025/09/01/component/dc-dc/DC-DC/",
             "title": "DC-DC",
             "date_published": "2025-09-01T12:33:06.000Z",
             "content_html": "<h1 id=\"dc-dc开关电源\"><a class=\"anchor\" href=\"#dc-dc开关电源\">#</a> DC-DC(开关电源)</h1>\n<h2 id=\"厂商\"><a class=\"anchor\" href=\"#厂商\">#</a> 厂商</h2>\n<ul>\n<li>矽力杰<mark>主要</mark></li>\n<li>3PEAK<mark>需要成本低次要部分</mark></li>\n<li>进口<mark>备选</mark></li>\n</ul>\n<h2 id=\"概念\"><a class=\"anchor\" href=\"#概念\">#</a> 概念</h2>\n<p>直流转直流电源(Direct Current)，直流电路中将一个电压值的电能变为另一个电压值的电能的装置</p>\n<h3 id=\"构成\"><a class=\"anchor\" href=\"#构成\">#</a> 构成</h3>\n<p>控制芯片、电感线圈、二极管、三极管、电容器（一般）</p>\n<h2 id=\"特点\"><a class=\"anchor\" href=\"#特点\">#</a> 特点</h2>\n<ul>\n<li>与LDO(低压差线性稳压器)相比<mark>效率高</mark>，通常效率在70%以上，效率高的可达到95%以上</li>\n<li>适应电压范围宽</li>\n</ul>\n<h2 id=\"分类\"><a class=\"anchor\" href=\"#分类\">#</a> 分类</h2>\n<ol>\n<li>Buck DC-DC converter</li>\n<li>Boost DC-DC converter</li>\n<li>Buck-Boost DC-DC converter</li>\n</ol>\n<h2 id=\"工作方式\"><a class=\"anchor\" href=\"#工作方式\">#</a> 工作方式</h2>\n<ol>\n<li>同步整流<br />\n采用通态电阻极低的MOS管代替二极管<br />\n续流MOSFET的导通和关断是主动的，与开关管的动作严格同步</li>\n</ol>\n<ul>\n<li>大大降低损耗</li>\n<li>价格昂贵</li>\n<li>轻载时工作状态更好</li>\n<li>低压(30V、40V)同步较多</li>\n</ul>\n<ol start=\"2\">\n<li>异步整流<br />\n续流二极管的导通和关断是被动的，与开关管的动作不同步</li>\n</ol>\n<ul>\n<li>二极管轻载时的损耗较大</li>\n<li>轻载时由于工作在不连续模式产生很大的噪声</li>\n<li>高压一般做异步</li>\n</ul>\n<h2 id=\"调制方式\"><a class=\"anchor\" href=\"#调制方式\">#</a> 调制方式</h2>\n<ol>\n<li>PFM(脉冲<mark>频率</mark>调制方式)<br />\n开关脉冲宽度一定，通过改变脉冲输出频率，使输出电压达到稳定<br />\n<strong>优点</strong><br />\n长时间使用耗电小（尤其小负载）<br />\n<strong>缺点</strong><br />\n重负载情况下，效率明显低于PWM方式<br />\n由于其纹波频谱比较分散规律少，使得滤波电路的设计十分复杂与困难</li>\n<li>PWM(脉冲<mark>宽度</mark>调制方式)<br />\n开关脉冲的频率一定，通过改变脉冲输出宽度，使输出电压达到稳定<br />\n<strong>优点</strong><br />\n控制电路简单，易于设计与实现<br />\n具有良好的电压纹波和噪声<br />\n频率特性好，线性度高<br />\n在重负载情况下有极高的效率<br />\n<strong>缺点</strong><br />\n随着负载变轻，效率下降，轻负载情况下效率很低</li>\n<li>PSM(<mark>待补充</mark>)</li>\n</ol>\n<h2 id=\"dc-dc和ldo差别\"><a class=\"anchor\" href=\"#dc-dc和ldo差别\">#</a> DC-DC和LDO差别</h2>\n<p><strong>LDO</strong><br />\n线性功耗高，跑不了大电流，低压差小电流用，最高40V<br />\n<strong>DC-DC</strong><br />\n大电流用</p>\n",
             "tags": [
-                "器件学习，DC-DC",
+                "器件学习",
+                "DC-DC",
                 "器件学习"
             ]
         }

@@ -1,18 +1,150 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zsphere.top</id>
+    <id>https://www.zsphere.top</id>
     <title>哲哲折</title>
     <subtitle></subtitle>
-    <icon>https://zsphere.top/assets/favicon.ico</icon>
-    <link href="https://zsphere.top" />
+    <icon>https://www.zsphere.top/assets/favicon.ico</icon>
+    <link href="https://www.zsphere.top" />
     <author>
       <name>lyz</name>
     </author>
-    <updated>2025-09-01T12:33:06.000Z</updated>
+    <updated>2025-09-02T13:46:05.000Z</updated>
     <entry>
-        <id>https://zsphere.top/2025/09/01/%E5%AD%A6%E4%B9%A0/</id>
+        <id>https://www.zsphere.top/2025/09/02/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/</id>
+        <title>名词解释</title>
+        <link rel="alternate" href="https://www.zsphere.top/2025/09/02/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/"/>
+        <content type="html">&lt;h1 id=&#34;名词解释&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#名词解释&#34;&gt;#&lt;/a&gt; 名词解释&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;PCBA(Printed Circuit Board Assembly)&lt;br /&gt;
+印刷电路板组装件，将电子元件通过焊接工艺固定到PCB上的成品&lt;/li&gt;
+&lt;li&gt;PCB(Printed Circuit Board)&lt;br /&gt;
+印刷电路板，由绝缘基材、导电线路和焊盘组成的三维结构载体&lt;/li&gt;
+&lt;li&gt;PDM(Product Data Management)/PLM(Product Lifecycle Management)&lt;/li&gt;
+&lt;li&gt;CIS(Component Information System)&lt;br /&gt;
+cadence 元器件库管理&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+        <updated>2025-09-02T13:46:05.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.zsphere.top/2025/09/02/component/diode/%E4%BA%8C%E6%9E%81%E7%AE%A1/</id>
+        <title>二极管</title>
+        <link rel="alternate" href="https://www.zsphere.top/2025/09/02/component/diode/%E4%BA%8C%E6%9E%81%E7%AE%A1/"/>
+        <content type="html">&lt;h1 id=&#34;二极管&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二极管&#34;&gt;#&lt;/a&gt; 二极管&lt;/h1&gt;
+&lt;h2 id=&#34;概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#概念&#34;&gt;#&lt;/a&gt; 概念&lt;/h2&gt;
+&lt;p&gt;一种由半导体材料制成的具有单向导电性能的电子元器件&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;半导体：导电能力介于导体和绝缘体之间的物质&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;组成&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#组成&#34;&gt;#&lt;/a&gt; 组成&lt;/h2&gt;
+&lt;p&gt;由一个由P型半导体和N型半导体形成的PN结加上相应的电极引线及管壳封装构成&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;N型半导体：电子型半导体，自由电子浓度远大于空穴浓度的杂质半导体&lt;/li&gt;
+&lt;li&gt;P型半导体：空穴型半导体，以带正电的空穴导电为主&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;工作原理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工作原理&#34;&gt;#&lt;/a&gt; 工作原理&lt;/h2&gt;
+&lt;p&gt;PN结加正向电压时，呈现低电阻，具有较大的正向扩散电流；PN结加反向电压时，呈现高电阻，具有很小的反向漂移电流&lt;br /&gt;
+PN结具有单向导电性&lt;/p&gt;
+&lt;h2 id=&#34;特性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#特性&#34;&gt;#&lt;/a&gt; 特性&lt;/h2&gt;
+&lt;h3 id=&#34;正向&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#正向&#34;&gt;#&lt;/a&gt; 正向&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;导通电压：正向超过某一数值后，二极管才有明显的正向电流。室温下，硅管的Vth约为0.5V，锗管的Vth约为0.1V&lt;/li&gt;
+&lt;li&gt;大于导通电压的区域称为导通区。当流过二极管的电流Ｉ比较大时，二极管两端的电压几乎维持恒定，硅管约为 0.6～0.8Ｖ（通常取 0.7Ｖ），锗管约为 0.2～0.3V（通常取 0.2Ｖ）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;反向&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#反向&#34;&gt;#&lt;/a&gt; 反向&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;在反向电压小于反向击穿电压的范围内，由少数载流子形成的反向电流很小，而且与反向电压的大小基本无关。此部分为截止区。由二极管的正向与反向特性可直观的看出：①二极管是非线性器件；②二极管具有单向导电性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;反向击穿&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#反向击穿&#34;&gt;#&lt;/a&gt; 反向击穿&lt;/h3&gt;
+&lt;p&gt;当反向电压增加到某一数值ＶBR 时，反向电流急剧增大，这种现象叫做二极管的反向击穿&lt;/p&gt;
+&lt;h2 id=&#34;分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#分类&#34;&gt;#&lt;/a&gt; 分类&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;PN结型二极管(双极型)&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;种类&lt;/th&gt;
+&lt;th&gt;用途&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;整流二极管&lt;/td&gt;
+&lt;td&gt;整流&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;开关二极管&lt;/td&gt;
+&lt;td&gt;整流&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;快速恢复二极管(FRD)&lt;/td&gt;
+&lt;td&gt;整流&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;齐纳二极管 稳压用&lt;/td&gt;
+&lt;td&gt;稳压&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;齐纳二极管 保护用&lt;/td&gt;
+&lt;td&gt;稳压&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ESD保护二极管(TVS)&lt;/td&gt;
+&lt;td&gt;稳压&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;波段开关二极管*PIN二极管&lt;/td&gt;
+&lt;td&gt;高频&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+        <category term="器件学习" scheme="https://www.zsphere.top/categories/component/" />
+        <category term="二极管" scheme="https://www.zsphere.top/categories/component/diode/" />
+        <category term="二极管" scheme="https://www.zsphere.top/tags/%E4%BA%8C%E6%9E%81%E7%AE%A1/" />
+        <updated>2025-09-02T13:37:17.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.zsphere.top/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/</id>
+        <title>器件工程师</title>
+        <link rel="alternate" href="https://www.zsphere.top/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/"/>
+        <content type="html">&lt;h1 id=&#34;器件工程师&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#器件工程师&#34;&gt;#&lt;/a&gt; 器件工程师&lt;/h1&gt;
+&lt;h2 id=&#34;硬件流程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#硬件流程&#34;&gt;#&lt;/a&gt; 硬件流程&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;器件(选型、维护)&lt;/li&gt;
+&lt;li&gt;电子设计(搭建板子)&lt;/li&gt;
+&lt;li&gt;layout&lt;/li&gt;
+&lt;li&gt;硬件测试(白盒、黑盒[整机、制程稳定])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;选型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选型&#34;&gt;#&lt;/a&gt; 选型&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;厂家资质&lt;/li&gt;
+&lt;li&gt;每个厂家的核心品类&lt;/li&gt;
+&lt;li&gt;满足自己的应用(充电宝到电池，电压保护)&lt;/li&gt;
+&lt;li&gt;通用性&lt;/li&gt;
+&lt;li&gt;可靠性高&lt;/li&gt;
+&lt;li&gt;成熟&lt;/li&gt;
+&lt;li&gt;性价比高&lt;/li&gt;
+&lt;li&gt;尽量国产化(交付快)&lt;/li&gt;
+&lt;li&gt;功能(分类、参数)&lt;/li&gt;
+&lt;li&gt;集中&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;建库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#建库&#34;&gt;#&lt;/a&gt; 建库&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;料号(ID)&lt;/li&gt;
+&lt;li&gt;原理图符号&lt;/li&gt;
+&lt;li&gt;封装&lt;/li&gt;
+&lt;li&gt;电压&lt;/li&gt;
+&lt;li&gt;电流&lt;/li&gt;
+&lt;li&gt;工作温度&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <updated>2025-09-01T12:33:06.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.zsphere.top/2025/09/01/%E5%AD%A6%E4%B9%A0/</id>
         <title>学习</title>
-        <link rel="alternate" href="https://zsphere.top/2025/09/01/%E5%AD%A6%E4%B9%A0/"/>
+        <link rel="alternate" href="https://www.zsphere.top/2025/09/01/%E5%AD%A6%E4%B9%A0/"/>
         <content type="html">&lt;h1 id=&#34;学习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习&#34;&gt;#&lt;/a&gt; 学习&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;斜体&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;粗体&lt;/strong&gt;&lt;/p&gt;
@@ -21,9 +153,17 @@
 &lt;/blockquote&gt;
 &lt;p&gt;[这是zz的主页]（&lt;a href=&#34;https://zhesphere.github.io&#34;&gt;https://zhesphere.github.io&lt;/a&gt;）&lt;/p&gt;
 &lt;p&gt;*无序列表1&lt;/p&gt;
-&lt;p&gt;+无序列表2&lt;/p&gt;
-&lt;p&gt;​	+无序列表2.1&lt;/p&gt;
-&lt;p&gt;-无序列表3&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;无序列表2&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;无序列表2.1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;无序列表3&lt;/li&gt;
+&lt;/ul&gt;
 &lt;ol&gt;
 &lt;li&gt;有序列表1
 &lt;ol&gt;
@@ -66,15 +206,11 @@
 &lt;td&gt;:--------:&lt;/td&gt;
 &lt;td&gt;------:&lt;/td&gt;
 &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;锁片&lt;/td&gt;
 &lt;td&gt;德利&lt;/td&gt;
 &lt;td&gt;1PCS&lt;/td&gt;
 &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;端子林鑫&lt;/td&gt;
 &lt;td&gt;2Pcs&lt;/td&gt;
@@ -115,33 +251,13 @@
 &amp;lt;/table&amp;gt;&lt;/p&gt;
 &lt;p&gt;&amp;lt;font face=&amp;quot;楷体&amp;quot; color=#00ffff size=5&amp;gt;改变文字格式&amp;lt;/font&amp;gt;&lt;/p&gt;
 </content>
-        <category term="markdown" scheme="https://zsphere.top/tags/markdown/" />
+        <category term="markdown" scheme="https://www.zsphere.top/tags/markdown/" />
         <updated>2025-09-01T12:33:06.000Z</updated>
     </entry>
     <entry>
-        <id>https://zsphere.top/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/</id>
-        <title>器件工程师</title>
-        <link rel="alternate" href="https://zsphere.top/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/"/>
-        <content type="html">&lt;h1 id=&#34;器件工程师&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#器件工程师&#34;&gt;#&lt;/a&gt; 器件工程师&lt;/h1&gt;
-&lt;h2 id=&#34;硬件流程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#硬件流程&#34;&gt;#&lt;/a&gt; 硬件流程&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;器件(选型、维护)&lt;/li&gt;
-&lt;li&gt;电子设计(搭建板子)&lt;/li&gt;
-&lt;li&gt;layout&lt;/li&gt;
-&lt;li&gt;硬件测试(白盒、黑盒[整机、制程稳定])&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;选型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选型&#34;&gt;#&lt;/a&gt; 选型&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;厂家资质&lt;/li&gt;
-&lt;li&gt;满足自己的应用(充电宝到电池，电压保护)&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-        <updated>2025-09-01T12:33:06.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://zsphere.top/2025/09/01/component/dc-dc/DC-DC/</id>
+        <id>https://www.zsphere.top/2025/09/01/component/dc-dc/DC-DC/</id>
         <title>DC-DC</title>
-        <link rel="alternate" href="https://zsphere.top/2025/09/01/component/dc-dc/DC-DC/"/>
+        <link rel="alternate" href="https://www.zsphere.top/2025/09/01/component/dc-dc/DC-DC/"/>
         <content type="html">&lt;h1 id=&#34;dc-dc开关电源&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dc-dc开关电源&#34;&gt;#&lt;/a&gt; DC-DC(开关电源)&lt;/h1&gt;
 &lt;h2 id=&#34;厂商&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#厂商&#34;&gt;#&lt;/a&gt; 厂商&lt;/h2&gt;
 &lt;ul&gt;
@@ -211,9 +327,9 @@
 &lt;strong&gt;DC-DC&lt;/strong&gt;&lt;br /&gt;
 大电流用&lt;/p&gt;
 </content>
-        <category term="器件学习" scheme="https://zsphere.top/categories/component/" />
-        <category term="DC-DC" scheme="https://zsphere.top/categories/component/dc-dc/" />
-        <category term="器件学习" scheme="https://zsphere.top/tags/%E5%99%A8%E4%BB%B6%E5%AD%A6%E4%B9%A0/" />
+        <category term="器件学习" scheme="https://www.zsphere.top/categories/component/" />
+        <category term="DC-DC" scheme="https://www.zsphere.top/categories/component/dc-dc/" />
+        <category term="器件学习" scheme="https://www.zsphere.top/tags/%E5%99%A8%E4%BB%B6%E5%AD%A6%E4%B9%A0/" />
         <updated>2025-09-01T12:33:06.000Z</updated>
     </entry>
 </feed>

@@ -10,8 +10,24 @@
         </author>
         <description>Exploring Tech &amp; Life</description>
         <language>zh-CN</language>
-        <pubDate>Tue, 02 Sep 2025 21:46:05 +0800</pubDate>
-        <lastBuildDate>Tue, 02 Sep 2025 21:46:05 +0800</lastBuildDate>
+        <pubDate>Wed, 03 Sep 2025 19:00:17 +0800</pubDate>
+        <lastBuildDate>Wed, 03 Sep 2025 19:00:17 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://www.zsphere.top/2025/09/03/component/diode/%E5%8A%9B%E6%A3%AE%E5%B7%A5%E5%8E%82%E5%AD%A6%E4%B9%A0/</guid>
+            <title>力森工厂学习</title>
+            <link>https://www.zsphere.top/2025/09/03/component/diode/%E5%8A%9B%E6%A3%AE%E5%B7%A5%E5%8E%82%E5%AD%A6%E4%B9%A0/</link>
+            <category term="器件学习" scheme="https://www.zsphere.top/categories/component/" />
+            <category term="二极管" scheme="https://www.zsphere.top/categories/component/diode/" />
+            <category term="二极管" scheme="https://www.zsphere.top/tags/%E4%BA%8C%E6%9E%81%E7%AE%A1/" />
+            <pubDate>Wed, 03 Sep 2025 19:00:17 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;力森电子lsdps二极管&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#力森电子lsdps二极管&#34;&gt;#&lt;/a&gt; 力森电子(LSDPS)二极管&lt;/h1&gt;
+&lt;h2 id=&#34;介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍&#34;&gt;#&lt;/a&gt; 介绍&lt;/h2&gt;
+&lt;p&gt;金坛封装厂&lt;br /&gt;
+力森电子——新洁能(控股?)——国硅集成(控股60%以上)&lt;br /&gt;
+代工上游：长晶、MCC……&lt;/p&gt;
+&lt;h2 id=&#34;生产制造流程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生产制造流程&#34;&gt;#&lt;/a&gt; 生产制造流程&lt;/h2&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://www.zsphere.top/2025/09/02/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/</guid>
             <title>名词解释</title>
@@ -57,14 +73,15 @@ PN结具有单向导电性&lt;/p&gt;
 &lt;h3 id=&#34;正向&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#正向&#34;&gt;#&lt;/a&gt; 正向&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;导通电压：正向超过某一数值后，二极管才有明显的正向电流。室温下，硅管的Vth约为0.5V，锗管的Vth约为0.1V&lt;/li&gt;
-&lt;li&gt;大于导通电压的区域称为导通区。当流过二极管的电流Ｉ比较大时，二极管两端的电压几乎维持恒定，硅管约为 0.6～0.8Ｖ（通常取 0.7Ｖ），锗管约为 0.2～0.3V（通常取 0.2Ｖ）&lt;/li&gt;
+&lt;li&gt;大于导通电压的区域称为&lt;mark&gt;导通区&lt;/mark&gt;。当流过二极管的电流Ｉ比较大时，二极管两端的电压几乎维持恒定，硅管约为 0.6～0.8Ｖ（通常取 0.7Ｖ），锗管约为 0.2～0.3V（通常取 0.2Ｖ）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;反向&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#反向&#34;&gt;#&lt;/a&gt; 反向&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;在反向电压小于反向击穿电压的范围内，由少数载流子形成的反向电流很小，而且与反向电压的大小基本无关。此部分为截止区。由二极管的正向与反向特性可直观的看出：①二极管是非线性器件；②二极管具有单向导电性&lt;/li&gt;
+&lt;li&gt;在反向电压小于反向击穿电压的范围内，由少数载流子形成的反向电流很小，而且与反向电压的大小基本无关。此部分为&lt;mark&gt;截止区&lt;/mark&gt;。&lt;br /&gt;
+由二极管的正向与反向特性可直观的看出：①二极管是非线性器件；②二极管具有单向导电性&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;反向击穿&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#反向击穿&#34;&gt;#&lt;/a&gt; 反向击穿&lt;/h3&gt;
-&lt;p&gt;当反向电压增加到某一数值ＶBR 时，反向电流急剧增大，这种现象叫做二极管的反向击穿&lt;/p&gt;
+&lt;p&gt;当反向电压增加到某一数值VBR时，反向电流急剧增大，这种现象叫做二极管的反向击穿&lt;/p&gt;
 &lt;h2 id=&#34;分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#分类&#34;&gt;#&lt;/a&gt; 分类&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;PN结型二极管(双极型)&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
@@ -103,8 +120,55 @@ PN结具有单向导电性&lt;/p&gt;
 &lt;td&gt;波段开关二极管*PIN二极管&lt;/td&gt;
 &lt;td&gt;高频&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;二极管整流桥&lt;/td&gt;
+&lt;td&gt;整流&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;阶跃恢复二极管(SRD)&lt;/td&gt;
+&lt;td&gt;整流&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;雪崩二极管(ABD)&lt;/td&gt;
+&lt;td&gt;稳压&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;变容二极管&lt;/td&gt;
+&lt;td&gt;电容&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;金属-半导体接触二极管(单极型)&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;种类&lt;/th&gt;
+&lt;th&gt;用途&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;肖特基二极管(SBD)&lt;/td&gt;
+&lt;td&gt;整流&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SiC肖特基二极管(SiC SBD)&lt;/td&gt;
+&lt;td&gt;整流&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;检波肖特基二极管&lt;/td&gt;
+&lt;td&gt;高频&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;PN结二极管光半导体&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;贴片LED&lt;/li&gt;
+&lt;li&gt;激光二极管&lt;/li&gt;
+&lt;li&gt;光电二极管&lt;br /&gt;
+&lt;strong&gt;结型FET(JFET)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;恒流二极管(CRD)&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>

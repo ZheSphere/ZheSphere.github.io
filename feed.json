@@ -7,6 +7,36 @@
     "home_page_url": "https://www.zsphere.top",
     "items": [
         {
+            "id": "https://www.zsphere.top/2025/09/05/special/spoiler%E9%9A%90%E8%97%8F%E6%96%87%E5%AD%97/",
+            "url": "https://www.zsphere.top/2025/09/05/special/spoiler%E9%9A%90%E8%97%8F%E6%96%87%E5%AD%97/",
+            "title": "spoiler隐藏文字",
+            "date_published": "2025-09-05T14:44:54.000Z",
+            "content_html": "<p>本功能基于 <span class=\"kbd red\">markdown-it-spoiler</span> 和 <span class=\"kbd red\">markdown-it-attrs</span><br />\n<span class=\"spoiler\" title=\"你知道得太多了\">黑幕黑幕黑幕黑幕黑幕黑幕</span> :鼠标滑过显示内容<br />\n<span class=\"spoiler bulr\" title=\"你知道得太多了\">模糊模糊模糊模糊模糊模糊</span> :选中文字显示内容</p>\n",
+            "tags": [
+                "特殊功能"
+            ]
+        },
+        {
+            "id": "https://www.zsphere.top/2025/09/05/special/emoji%E7%BB%98%E6%96%87%E5%AD%97/",
+            "url": "https://www.zsphere.top/2025/09/05/special/emoji%E7%BB%98%E6%96%87%E5%AD%97/",
+            "title": "emoji绘文字",
+            "date_published": "2025-09-05T14:07:31.000Z",
+            "content_html": "<p>本功能基于 markdown-it-emoji ，所有标签参考戳此</p>\n<pre class=\"shiki shiki-themes vitesse-light vitesse-dark\" style=\"background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee\" tabindex=\"0\"><code class=\"language-text\"><span class=\"line\"><span>:kissing_heart:</span></span>\n<span class=\"line\"><span>:ring:</span></span>\n<span class=\"line\"><span>:notes:</span></span></code></pre>\n",
+            "tags": [
+                "特殊功能"
+            ]
+        },
+        {
+            "id": "https://www.zsphere.top/2025/09/05/special/effects%E6%96%87%E5%AD%97%E7%89%B9%E6%95%88/",
+            "url": "https://www.zsphere.top/2025/09/05/special/effects%E6%96%87%E5%AD%97%E7%89%B9%E6%95%88/",
+            "title": "effects文字特效",
+            "date_published": "2025-09-05T13:15:39.000Z",
+            "content_html": "<p>本功能基于<span class=\"kbd red\">markdown-it-ins</span>、 <span class=\"kbd red\">markdown-it-bracketed-spans</span>和<span class=\"kbd red\">markdown-it-attrs</span></p>\n<blockquote>\n<p>本主题风格颜色通用样式：default、primary、success、info、warning、danger</p>\n</blockquote>\n<p><ins>下划线</ins><br />\n<ins class=\"wavy\">波浪线</ins><br />\n<ins class=\"dot\">着重点</ins><br />\n<ins class=\"primary\">紫色下划线</ins><br />\n<ins class=\"wavy success\">绿色波浪线</ins><br />\n<ins class=\"dot warning\">黄色着重点</ins><br />\n<s>删除线</s><br />\n<s class=\"danger\">红色删除线</s><br />\n<mark>荧光高亮</mark><br />\n<span class=\"rainbow\">赤橙黄绿青蓝紫</span><br />\n<span class=\"red\">红色</span><br />\n<span class=\"pink\">粉色</span><br />\n<span class=\"orange\">橙色</span><br />\n<span class=\"yellow\">黄色</span><br />\n<span class=\"green\">绿色</span><br />\n<span class=\"aqua\">靛青</span><br />\n<span class=\"blue\">蓝色</span><br />\n<span class=\"purple\">紫色</span><br />\n<span class=\"grey\">灰色</span><br />\n快捷键 <span class=\"kbd\">Ctrl</span> + <span class=\"kbd red\">C</span><br />\nH<sub>2</sub>0<br />\n29<sup>th</sup></p>\n",
+            "tags": [
+                "特殊功能"
+            ]
+        },
+        {
             "id": "https://www.zsphere.top/2025/09/04/%E5%BE%85%E5%8A%9E/",
             "url": "https://www.zsphere.top/2025/09/04/%E5%BE%85%E5%8A%9E/",
             "title": "待办",
@@ -19,7 +49,7 @@
             "url": "https://www.zsphere.top/2025/09/04/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/",
             "title": "更新日志",
             "date_published": "2025-09-04T12:41:54.000Z",
-            "content_html": "<ol>\n<li>添加小黄花飘落物<br />\n2025-09-04<br />\n<a href=\"https://lyrashore.com/computer-science/hexo/enhance/2025-3-2/\">https://lyrashore.com/computer-science/hexo/enhance/2025-3-2/</a></li>\n<li>改变鼠标点击特效，烟花——爱心<br />\n2025-09-04<br />\n<a href=\"https://blog.minz.li/shokaX/ShokaX%E6%8F%92%E4%BB%B6-%E9%BB%9E%E6%93%8A%E6%84%9B%E5%BF%83%E6%95%88%E6%9E%9C/\">https://blog.minz.li/shokaX/ShokaX插件-點擊愛心效果/</a></li>\n<li>打开BGM播放开关<br />\n2025-09-04</li>\n</ol>\n",
+            "content_html": "<ol>\n<li>添加小黄花飘落物<br />\n2025-09-04<br />\n<a href=\"https://lyrashore.com/computer-science/hexo/enhance/2025-3-2/\">https://lyrashore.com/computer-science/hexo/enhance/2025-3-2/</a></li>\n<li>改变鼠标点击特效，烟花——爱心<br />\n2025-09-04<br />\n<a href=\"https://blog.minz.li/shokaX/ShokaX%E6%8F%92%E4%BB%B6-%E9%BB%9E%E6%93%8A%E6%84%9B%E5%BF%83%E6%95%88%E6%9E%9C/\">https://blog.minz.li/shokaX/ShokaX插件-點擊愛心效果/</a></li>\n<li>打开BGM播放开关<br />\n2025-09-04</li>\n<li>effects文字特效<br />\n2025-09-05</li>\n<li>emoji绘文字<br />\n2025-09-05</li>\n<li>spoiler隐藏文字<br />\n2025-09-05</li>\n</ol>\n",
             "tags": []
         },
         {

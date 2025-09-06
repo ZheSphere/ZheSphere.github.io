@@ -7,6 +7,36 @@
     "home_page_url": "https://www.zsphere.top",
     "items": [
         {
+            "id": "https://www.zsphere.top/2025/09/06/special/note%E6%8F%90%E9%86%92%E5%9D%97/",
+            "url": "https://www.zsphere.top/2025/09/06/special/note%E6%8F%90%E9%86%92%E5%9D%97/",
+            "title": "note提醒块",
+            "date_published": "2025-09-06T12:16:07.000Z",
+            "content_html": "<p>本功能基于 <span class=\"kbd red\">markdown-it-container</span></p>\n<div class=\"note default\">\n<p>默认默认</p>\n</div>\n<div class=\"note primary\">\n<p>基本基本</p>\n</div>\n<div class=\"note info\">\n<p>提示提示</p>\n</div>\n<div class=\"note success\">\n<p>成功成功</p>\n</div>\n<div class=\"note warning\">\n<p>警告警告</p>\n</div>\n<div class=\"note danger\">\n<p>危险危险</p>\n</div>\n<div class=\"note danger no-icon\">\n<p>危险危险</p>\n</div>\n",
+            "tags": [
+                "特殊功能"
+            ]
+        },
+        {
+            "id": "https://www.zsphere.top/2025/09/06/special/label%E6%A0%87%E7%AD%BE%E5%9D%97/",
+            "url": "https://www.zsphere.top/2025/09/06/special/label%E6%A0%87%E7%AD%BE%E5%9D%97/",
+            "title": "label标签块",
+            "date_published": "2025-09-06T11:54:05.000Z",
+            "content_html": "<p>本功能基于<span class=\"kbd red\">markdown-it-bracketed-spans</span>和<span class=\"kbd red\">markdown-it-attrs</span><br />\n<span class=\"label\">default</span><br />\n<span class=\"label primary\">primary</span><br />\n<span class=\"label info\">info</span><br />\n<span class=\"label success\">✔️success</span><br />\n<span class=\"label warning\">warning</span><br />\n<span class=\"label danger\">💔danger</span></p>\n",
+            "tags": [
+                "特殊功能"
+            ]
+        },
+        {
+            "id": "https://www.zsphere.top/2025/09/06/special/collapse%E6%8A%98%E5%8F%A0%E5%9D%97/",
+            "url": "https://www.zsphere.top/2025/09/06/special/collapse%E6%8A%98%E5%8F%A0%E5%9D%97/",
+            "title": "collapse折叠块",
+            "date_published": "2025-09-06T11:05:17.000Z",
+            "content_html": "<p>本功能基于 <span class=\"kbd red\">markdown-it-container</span></p>\n<details><summary>默认默认 这里是一段文字</summary><div>\n<p>++ 下划线 ++</p>\n</div></details>\n<details class=\"primary\"><summary>紫色</summary><div>\n<div class=\"note info\">\n<p>参考信息</p>\n</div>\n<ul>\n<li>第一行</li>\n<li>第二行</li>\n</ul>\n</div></details>\n<details class=\"info\"><summary>蓝色</summary><div>\n<div class=\"tab\" data-id=\"id3\" data-title=\"卡片 1\">\n<p>这里是卡片 1 的内容</p>\n</div>\n<div class=\"tab\" data-id=\"id3\" data-title=\"卡片 2\">\n<p>这里是卡片 2 的内容</p>\n</div>\n</div></details>\n<details class=\"success\"><summary>绿色</summary><div>\n<p><div class=\"links\"><div class=\"item\" title=\"優萌初華\" style=\"--block-color:#e9546b;\"><a href=\"https://shoka.lostyu.me\" class=\"image\" data-background-image=\"/assets/404.png\"></a>\n        <div class=\"info\">\n        <a href=\"https://shoka.lostyu.me\" class=\"title\">優萌初華</a>\n        <p class=\"desc\">https://shoka.lostyu.me</p>\n        </div></div></div></p>\n</div></details>\n<details class=\"warning\"><summary>黄色</summary><div>\n<p>!! 警告警告警告警告警告！！{.bulr}<br />\n<span class=\"label success\">label</span></p>\n</div></details>\n<details class=\"danger\"><summary>红色</summary><div>\n<p><span class=\"label danger\">danger</span></p>\n</div></details>\n",
+            "tags": [
+                "特殊功能"
+            ]
+        },
+        {
             "id": "https://www.zsphere.top/2025/09/06/component/SMT_DIP/%E6%8D%B7%E4%BC%98%E5%A5%87/",
             "url": "https://www.zsphere.top/2025/09/06/component/SMT_DIP/%E6%8D%B7%E4%BC%98%E5%A5%87/",
             "title": "捷优奇",
@@ -22,7 +52,7 @@
             "url": "https://www.zsphere.top/2025/09/05/photo/lunar_eclipse/2025-09-07%E6%9C%88%E5%85%A8%E9%A3%9F/",
             "title": "2025-09-07月全食",
             "date_published": "2025-09-05T15:19:56.000Z",
-            "content_html": "<h1 id=\"关键时间\"><a class=\"anchor\" href=\"#关键时间\">#</a> 关键时间</h1>\n<ul>\n<li><span class=\"kbd red\">23:28:02</span>半影食始</li>\n<li><span class=\"kbd red\">00:26:40</span>初亏</li>\n<li><span class=\"kbd red\">01:30:14</span>食既</li>\n<li><span class=\"kbd red\">02:11:41</span>食甚</li>\n<li><span class=\"kbd red\">02:53:08</span>生光</li>\n<li><span class=\"kbd red\">03:56:42</span>复圆</li>\n<li><span class=\"kbd red\">04:55:20</span>半影食终</li>\n</ul>\n<h1 id=\"前期准备\"><a class=\"anchor\" href=\"#前期准备\">#</a> 前期准备</h1>\n<h2 id=\"天气与地点\"><a class=\"anchor\" href=\"#天气与地点\">#</a> 天气与地点</h2>\n",
+            "content_html": "<h1 id=\"关键时间\"><a class=\"anchor\" href=\"#关键时间\">#</a> 关键时间</h1>\n<ul>\n<li><span class=\"kbd red\">23:28:02</span>半影食始</li>\n<li><span class=\"kbd red\">00:26:40</span>初亏</li>\n<li><span class=\"kbd red\">01:30:14</span>食既</li>\n<li><span class=\"kbd red\">02:11:41</span>食甚</li>\n<li><span class=\"kbd red\">02:53:08</span>生光</li>\n<li><span class=\"kbd red\">03:56:42</span>复圆</li>\n<li><span class=\"kbd red\">04:55:20</span>半影食终</li>\n</ul>\n<h1 id=\"前期准备\"><a class=\"anchor\" href=\"#前期准备\">#</a> 前期准备</h1>\n<h2 id=\"天气与地点\"><a class=\"anchor\" href=\"#天气与地点\">#</a> 天气与地点</h2>\n<ul>\n<li>提前48小时查看云量，优先选择海拔高、光害低的开阔地</li>\n</ul>\n<details class=\"info\"><summary>参考app</summary><div>\n<p>windy，天文通，莉景天气</p>\n</div></details>\n<ul>\n<li>城市内也可拍摄，只要月亮方向无遮挡即可</li>\n</ul>\n<h2 id=\"器材清单\"><a class=\"anchor\" href=\"#器材清单\">#</a> 器材清单</h2>\n<ul>\n<li>机身：单反、微单、手机皆可<br />\n<span class=\"label primary\">EOS R10</span></li>\n<li>镜头：\n<ul>\n<li>特写：≥400mm(全画幅)</li>\n<li>月轨：85mm-135mm</li>\n<li><mark>地景+月轨</mark>：24-100mm<br />\n<span class=\"label primary\">RF-S18-150mm</span></li>\n</ul>\n</li>\n<li>支架：稳固三脚架</li>\n<li>便携：双肩包/斜挎包</li>\n<li>远控：快门线/遥控器/手机app<span class=\"label warning\">调参数用</span><br />\n<span class=\"label primary\">Camera Connect</span></li>\n<li>手机党：10×光学变焦机型</li>\n<li>进阶：赤道仪<br />\n<span class=\"label danger\">💔<span class=\"spoiler\" title=\"你知道得太多了\">暂时供不起</span></span></li>\n<li>续航：电池、充电宝</li>\n<li>个人：热水、夜间防寒、防蚊用品、小凳子</li>\n</ul>\n<h2 id=\"参数\"><a class=\"anchor\" href=\"#参数\">#</a> 参数</h2>\n<ul>\n<li>模式：手动M档，关闭防抖</li>\n<li>对焦：务必手动对焦，放大屏幕对着月亮边缘调清晰</li>\n<li>焦段：拍月食全过程序列，推荐30mm左右；想全程记录无压力，20mm更稳妥</li>\n<li>测光：点测光，锁定月亮亮度，避免过曝</li>\n<li></li>\n<li>初亏：</li>\n</ul>\n<div class=\"note info\">\n<p>ISO 100-200 | 快门 1/100-1/500 s | 光圈 f/8-f/11</p>\n</div>\n<ul>\n<li>全食(血月)：</li>\n</ul>\n<div class=\"note info\">\n<p>ISO 1600以上 | 快门 1/4-2 s | 光圈 f5/6-f/8</p>\n</div>\n<ul>\n<li>复圆：<span class=\"label danger\">💔一定记得调不然过曝</span></li>\n</ul>\n<div class=\"note info\">\n<p>ISO 100-200 | 快门 1/100-1/500 s | 光圈 f/8-f/11</p>\n</div>\n<h2 id=\"实战流程\"><a class=\"anchor\" href=\"#实战流程\">#</a> 实战流程</h2>\n<ol>\n<li>预先试拍满月，确认对焦与构图</li>\n<li>设置间隔拍摄参数：间隔时间控制在17s左右，拍摄张数750-1000</li>\n<li>初亏开始，保持曝光参数，连续拍摄记录缺口变化</li>\n<li>开始提高曝光：月亮逐渐变暗，逐步降快门，提ISO</li>\n<li>全食段：切换血月参数，可拍一张地景正常曝光备用</li>\n<li>生光后：反向调整参数，恢复高快门</li>\n<li>复圆后：可收工，也可再拍一组地景用于后期合成</li>\n</ol>\n<div class=\"note info\">\n<p>拍摄的同时不要忘记用眼睛观看，欣赏和记录我全都要</p>\n</div>\n<h2 id=\"创意拍法\"><a class=\"anchor\" href=\"#创意拍法\">#</a> 创意拍法</h2>\n<p><strong>糖葫芦序列</strong></p>\n<ul>\n<li>固定机位，每8-10min拍一张，后期把月亮按时间轴“串”成一串糖葫芦</li>\n<li>需提前用Planit/Stellarium模拟月亮轨迹，选取合适地景<br />\n<strong>延时摄影</strong><br />\n间隔10-20s拍一张，合成月食全过程视频<br />\n<strong>HDR合成</strong><br />\n包围曝光拍摄地景和月亮，后期合成<br />\n<strong>血月+银河</strong></li>\n<li>食甚阶段月亮亮度仅约-3等，可同时拍到夏季银河</li>\n<li>超广角14-24mm，f/2.8，ISO 3200，15-20s，地景单独曝光后HDR合成<br />\n<strong>超大巨月+地标</strong></li>\n<li>使用600mm以上长焦，在1-2km外寻找高处建筑/桥梁，利用透视压缩拍出“红月悬塔”</li>\n<li>提前用地图软件测算拍摄距离与月亮仰角</li>\n</ul>\n<h2 id=\"后期思路\"><a class=\"anchor\" href=\"#后期思路\">#</a> 后期思路</h2>\n<ol>\n<li>Lightroom统一调色</li>\n<li>Photoshop堆栈“变亮”叠加月轨GIF</li>\n<li>血月+地景：分别导入图层，蒙版擦出正确曝光区域</li>\n</ol>\n<h2 id=\"个人\"><a class=\"anchor\" href=\"#个人\">#</a> 个人</h2>\n<p>可能只能拍月亮序列，今年月亮较高，<br />\n优先拍序列，次要拍延时<br />\n避免不停变换参数，设置包围曝光，一组3-5张，每张间隔1-1.5档曝光？<br />\n拍摄间隔时间：建议3-5分钟一组</p>\n",
             "tags": [
                 "摄影",
                 "月全食"
@@ -63,7 +93,7 @@
             "url": "https://www.zsphere.top/2025/09/04/%E5%BE%85%E5%8A%9E/",
             "title": "待办",
             "date_published": "2025-09-04T12:42:02.000Z",
-            "content_html": "<ul>\n<li>outtime文章失效</li>\n<li>播放按钮播放前后变化</li>\n<li>首页轮播图下滑到底</li>\n<li>移除顶部模糊(<a href=\"https://liuxiaohanhanzi.top/blog-construction/ShokaX%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9D%97/\">https://liuxiaohanhanzi.top/blog-construction/ShokaX功能模块/</a>)</li>\n<li>添加可动立牌</li>\n</ul>\n",
+            "content_html": "<ul>\n<li>outtime文章失效</li>\n<li>播放按钮播放前后变化</li>\n<li>首页轮播图下滑到底</li>\n<li>移除顶部模糊(<a href=\"https://liuxiaohanhanzi.top/blog-construction/ShokaX%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9D%97/\">https://liuxiaohanhanzi.top/blog-construction/ShokaX功能模块/</a>)</li>\n<li>添加可动立牌</li>\n<li>鼠标放到字句上出现提示框，提示框内容可编辑</li>\n</ul>\n",
             "tags": []
         },
         {
@@ -71,7 +101,7 @@
             "url": "https://www.zsphere.top/2025/09/04/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/",
             "title": "更新日志",
             "date_published": "2025-09-04T12:41:54.000Z",
-            "content_html": "<ol>\n<li>添加小黄花飘落物<br />\n2025-09-04<br />\n<a href=\"https://lyrashore.com/computer-science/hexo/enhance/2025-3-2/\">https://lyrashore.com/computer-science/hexo/enhance/2025-3-2/</a></li>\n<li>改变鼠标点击特效，烟花——爱心<br />\n2025-09-04<br />\n<a href=\"https://blog.minz.li/shokaX/ShokaX%E6%8F%92%E4%BB%B6-%E9%BB%9E%E6%93%8A%E6%84%9B%E5%BF%83%E6%95%88%E6%9E%9C/\">https://blog.minz.li/shokaX/ShokaX插件-點擊愛心效果/</a></li>\n<li>打开BGM播放开关<br />\n2025-09-04</li>\n<li>effects文字特效<br />\n2025-09-05</li>\n<li>emoji绘文字<br />\n2025-09-05</li>\n<li>spoiler隐藏文字<br />\n2025-09-05</li>\n</ol>\n",
+            "content_html": "<ol>\n<li>添加小黄花飘落物<br />\n2025-09-04<br />\n<a href=\"https://lyrashore.com/computer-science/hexo/enhance/2025-3-2/\">https://lyrashore.com/computer-science/hexo/enhance/2025-3-2/</a></li>\n<li>改变鼠标点击特效，烟花——爱心<br />\n2025-09-04<br />\n<a href=\"https://blog.minz.li/shokaX/ShokaX%E6%8F%92%E4%BB%B6-%E9%BB%9E%E6%93%8A%E6%84%9B%E5%BF%83%E6%95%88%E6%9E%9C/\">https://blog.minz.li/shokaX/ShokaX插件-點擊愛心效果/</a></li>\n<li>打开BGM播放开关<br />\n2025-09-04</li>\n<li>effects文字特效<br />\n2025-09-05</li>\n<li>emoji绘文字<br />\n2025-09-05</li>\n<li>spoiler隐藏文字<br />\n2025-09-05</li>\n<li>collapse折叠块<br />\n2025-09-06</li>\n<li>label标签块<br />\n2025-09-06</li>\n<li>note提醒块<br />\n2025-09-06</li>\n</ol>\n",
             "tags": []
         },
         {

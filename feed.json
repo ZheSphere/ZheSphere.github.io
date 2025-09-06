@@ -7,11 +7,22 @@
     "home_page_url": "https://www.zsphere.top",
     "items": [
         {
+            "id": "https://www.zsphere.top/2025/09/06/component/SMT-DIP/%E6%8D%B7%E4%BC%98%E5%A5%87/",
+            "url": "https://www.zsphere.top/2025/09/06/component/SMT-DIP/%E6%8D%B7%E4%BC%98%E5%A5%87/",
+            "title": "捷优奇",
+            "date_published": "2025-09-06T05:03:01.000Z",
+            "content_html": "<blockquote>\n<p>捷优信达和昌奇合办捷优奇</p>\n</blockquote>\n<h1 id=\"smt\"><a class=\"anchor\" href=\"#smt\">#</a> SMT</h1>\n<ul>\n<li>放PCB</li>\n<li>印刷，印锡膏</li>\n<li>SPI检查，体积高度</li>\n<li>贴元器件</li>\n<li>AOI检查，有没有缺件，错件，有的工厂没有这步</li>\n<li>回流焊，235-250</li>\n<li>炉后AOI，有没有少锡，上锡状况，器件间距</li>\n<li>收板</li>\n<li>有BGA的产品，要照，X- RAY，首片</li>\n</ul>\n<h1 id=\"dip\"><a class=\"anchor\" href=\"#dip\">#</a> DIP</h1>\n<ul>\n<li>插件</li>\n<li>波峰焊，引脚焊接</li>\n<li>修整</li>\n<li>UV胶</li>\n<li>FCP功能测试</li>\n<li>点黑胶，灯上面，线束</li>\n<li>灌胶，AB一比一，灌胶房，机器自动抽，一片40s，万一设备坏了，一个灌胶机</li>\n<li>装壳</li>\n<li>电压阻抗测试</li>\n</ul>\n<p>线束<br />\n半自动剥线器</p>\n<p>剥线管<br />\n胶包玻璃纤维</p>\n<p>点胶房<br />\n检验pin针上有没有胶</p>\n",
+            "tags": [
+                "器件学习",
+                "SMT/DIP"
+            ]
+        },
+        {
             "id": "https://www.zsphere.top/2025/09/05/photo/lunar_eclipse/2025-09-07%E6%9C%88%E5%85%A8%E9%A3%9F/",
             "url": "https://www.zsphere.top/2025/09/05/photo/lunar_eclipse/2025-09-07%E6%9C%88%E5%85%A8%E9%A3%9F/",
             "title": "2025-09-07月全食",
             "date_published": "2025-09-05T15:19:56.000Z",
-            "content_html": "",
+            "content_html": "<h1 id=\"关键时间\"><a class=\"anchor\" href=\"#关键时间\">#</a> 关键时间</h1>\n<ul>\n<li><span class=\"kbd red\">23:28:02</span>半影食始</li>\n<li><span class=\"kbd red\">00:26:40</span>初亏</li>\n<li><span class=\"kbd red\">01:30:14</span>食既</li>\n<li><span class=\"kbd red\">02:11:41</span>食甚</li>\n<li><span class=\"kbd red\">02:53:08</span>生光</li>\n<li><span class=\"kbd red\">03:56:42</span>复圆</li>\n<li><span class=\"kbd red\">04:55:20</span>半影食终</li>\n</ul>\n<h1 id=\"前期准备\"><a class=\"anchor\" href=\"#前期准备\">#</a> 前期准备</h1>\n<h2 id=\"天气与地点\"><a class=\"anchor\" href=\"#天气与地点\">#</a> 天气与地点</h2>\n",
             "tags": [
                 "摄影",
                 "月全食"
@@ -32,7 +43,7 @@
             "url": "https://www.zsphere.top/2025/09/05/special/emoji%E7%BB%98%E6%96%87%E5%AD%97/",
             "title": "emoji绘文字",
             "date_published": "2025-09-05T14:07:31.000Z",
-            "content_html": "<p>本功能基于 markdown-it-emoji ，所有标签参考戳此</p>\n<pre class=\"shiki shiki-themes vitesse-light vitesse-dark\" style=\"background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee\" tabindex=\"0\"><code class=\"language-text\"><span class=\"line\"><span>:kissing_heart:</span></span>\n<span class=\"line\"><span>:ring:</span></span>\n<span class=\"line\"><span>:notes:</span></span></code></pre>\n",
+            "content_html": "<p>本功能基于 <span class=\"kbd red\">markdown-it-emoji</span> ，所有标签参考戳此</p>\n<pre class=\"shiki shiki-themes vitesse-light vitesse-dark\" style=\"background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee\" tabindex=\"0\"><code class=\"language-text\"><span class=\"line\"><span>:kissing_heart:</span></span>\n<span class=\"line\"><span>:ring:</span></span>\n<span class=\"line\"><span>:notes:</span></span></code></pre>\n",
             "tags": [
                 "特殊功能"
             ]

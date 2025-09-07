@@ -173,7 +173,7 @@
 &lt;li&gt;特写：≥400mm(全画幅)&lt;/li&gt;
 &lt;li&gt;月轨：85mm-135mm&lt;/li&gt;
 &lt;li&gt;&lt;mark&gt;地景+月轨&lt;/mark&gt;：24-100mm&lt;br /&gt;
-&lt;span class=&#34;label primary&#34;&gt;RF-S18-150mm&lt;/span&gt;&lt;/li&gt;
+&lt;span class=&#34;label primary&#34;&gt;RF-S18-150mm(等效28.8-240mm)&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;支架：稳固三脚架&lt;/li&gt;
@@ -250,6 +250,80 @@
 优先拍序列，次要拍延时&lt;br /&gt;
 避免不停变换参数，设置包围曝光，一组3-5张，每张间隔1-1.5档曝光？&lt;br /&gt;
 拍摄间隔时间：建议3-5分钟一组&lt;/p&gt;
+&lt;h2 id=&#34;巧摄&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#巧摄&#34;&gt;#&lt;/a&gt; 巧摄&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;广角拍摄带地景的月食&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;目的：制作延时和月食序列&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;器材：20mm或更广才能包括整个序列&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;模拟月食序列，把构图定下来，相机全程不动&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;按照月全食来定下来曝光参数，全程M档(所以开始和结束的时候，月亮会过曝，不过没事)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;曝光计算&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;手动模式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;EV&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;已知场景&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;月食(出现五个月全食)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Danjon(丹戎標度)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;经验拍广角用Danjon3(EV1.6)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;长按ISO变为自动&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;星星星轨&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;星轨模式关闭&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;星点法则模糊圈法则&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;星点法则设置，传感器大小，大幅打印打开&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;20mm &amp;lt; 4s，针对星星，月亮变为1s&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;景深计算摄影工具&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;前景想拍灯光芒四射，最好f/16但是画质会有损失，一般改到f/13或者f/11&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;M档曝光，调节参数&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;间隔拍摄，间隔10s以上&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;取景框有设置3×3+对角线&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;拍出来金箍棒月亮序列，前后过曝&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;ISO一般不超过6400&lt;/strong&gt;&lt;/p&gt;
 </content>
         <category term="摄影" scheme="https://www.zsphere.top/categories/photo/" />
         <category term="月全食" scheme="https://www.zsphere.top/categories/photo/lunar-eclipse/" />
@@ -610,43 +684,6 @@ PN结掺杂浓度高，所加反向电压较低，阻挡层很薄，如稳压管
         <updated>2025-09-02T13:37:17.000Z</updated>
     </entry>
     <entry>
-        <id>https://www.zsphere.top/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/</id>
-        <title>器件工程师</title>
-        <link rel="alternate" href="https://www.zsphere.top/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/"/>
-        <content type="html">&lt;h1 id=&#34;器件工程师&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#器件工程师&#34;&gt;#&lt;/a&gt; 器件工程师&lt;/h1&gt;
-&lt;h2 id=&#34;硬件流程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#硬件流程&#34;&gt;#&lt;/a&gt; 硬件流程&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;器件(选型、维护)&lt;/li&gt;
-&lt;li&gt;电子设计(搭建板子)&lt;/li&gt;
-&lt;li&gt;layout&lt;/li&gt;
-&lt;li&gt;硬件测试(白盒、黑盒[整机、制程稳定])&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;选型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选型&#34;&gt;#&lt;/a&gt; 选型&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;厂家资质&lt;/li&gt;
-&lt;li&gt;每个厂家的核心品类&lt;/li&gt;
-&lt;li&gt;满足自己的应用(充电宝到电池，电压保护)&lt;/li&gt;
-&lt;li&gt;通用性&lt;/li&gt;
-&lt;li&gt;可靠性高&lt;/li&gt;
-&lt;li&gt;成熟&lt;/li&gt;
-&lt;li&gt;性价比高&lt;/li&gt;
-&lt;li&gt;尽量国产化(交付快)&lt;/li&gt;
-&lt;li&gt;功能(分类、参数)&lt;/li&gt;
-&lt;li&gt;集中&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;建库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#建库&#34;&gt;#&lt;/a&gt; 建库&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;料号(ID)&lt;/li&gt;
-&lt;li&gt;原理图符号&lt;/li&gt;
-&lt;li&gt;封装&lt;/li&gt;
-&lt;li&gt;电压&lt;/li&gt;
-&lt;li&gt;电流&lt;/li&gt;
-&lt;li&gt;工作温度&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-        <updated>2025-09-01T12:33:06.000Z</updated>
-    </entry>
-    <entry>
         <id>https://www.zsphere.top/2025/09/01/%E5%AD%A6%E4%B9%A0/</id>
         <title>学习</title>
         <link rel="alternate" href="https://www.zsphere.top/2025/09/01/%E5%AD%A6%E4%B9%A0/"/>
@@ -757,6 +794,43 @@ PN结掺杂浓度高，所加反向电压较低，阻挡层很薄，如稳压管
 &lt;p&gt;&amp;lt;font face=&amp;quot;楷体&amp;quot; color=#00ffff size=5&amp;gt;改变文字格式&amp;lt;/font&amp;gt;&lt;/p&gt;
 </content>
         <category term="markdown" scheme="https://www.zsphere.top/tags/markdown/" />
+        <updated>2025-09-01T12:33:06.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.zsphere.top/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/</id>
+        <title>器件工程师</title>
+        <link rel="alternate" href="https://www.zsphere.top/2025/09/01/%E5%99%A8%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/"/>
+        <content type="html">&lt;h1 id=&#34;器件工程师&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#器件工程师&#34;&gt;#&lt;/a&gt; 器件工程师&lt;/h1&gt;
+&lt;h2 id=&#34;硬件流程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#硬件流程&#34;&gt;#&lt;/a&gt; 硬件流程&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;器件(选型、维护)&lt;/li&gt;
+&lt;li&gt;电子设计(搭建板子)&lt;/li&gt;
+&lt;li&gt;layout&lt;/li&gt;
+&lt;li&gt;硬件测试(白盒、黑盒[整机、制程稳定])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;选型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选型&#34;&gt;#&lt;/a&gt; 选型&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;厂家资质&lt;/li&gt;
+&lt;li&gt;每个厂家的核心品类&lt;/li&gt;
+&lt;li&gt;满足自己的应用(充电宝到电池，电压保护)&lt;/li&gt;
+&lt;li&gt;通用性&lt;/li&gt;
+&lt;li&gt;可靠性高&lt;/li&gt;
+&lt;li&gt;成熟&lt;/li&gt;
+&lt;li&gt;性价比高&lt;/li&gt;
+&lt;li&gt;尽量国产化(交付快)&lt;/li&gt;
+&lt;li&gt;功能(分类、参数)&lt;/li&gt;
+&lt;li&gt;集中&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;建库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#建库&#34;&gt;#&lt;/a&gt; 建库&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;料号(ID)&lt;/li&gt;
+&lt;li&gt;原理图符号&lt;/li&gt;
+&lt;li&gt;封装&lt;/li&gt;
+&lt;li&gt;电压&lt;/li&gt;
+&lt;li&gt;电流&lt;/li&gt;
+&lt;li&gt;工作温度&lt;/li&gt;
+&lt;/ul&gt;
+</content>
         <updated>2025-09-01T12:33:06.000Z</updated>
     </entry>
     <entry>

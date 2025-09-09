@@ -8,7 +8,169 @@
     <author>
       <name>lyz</name>
     </author>
-    <updated>2025-09-06T12:16:07.000Z</updated>
+    <updated>2025-09-09T13:52:37.000Z</updated>
+    <entry>
+        <id>https://www.zsphere.top/2025/09/09/component/logic/%E9%80%BB%E8%BE%91%E5%99%A8%E4%BB%B6/</id>
+        <title>逻辑器件</title>
+        <link rel="alternate" href="https://www.zsphere.top/2025/09/09/component/logic/%E9%80%BB%E8%BE%91%E5%99%A8%E4%BB%B6/"/>
+        <content type="html">&lt;h1 id=&#34;通用逻辑器件逻辑ic&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#通用逻辑器件逻辑ic&#34;&gt;#&lt;/a&gt; 通用逻辑器件(逻辑IC)&lt;/h1&gt;
+&lt;h2 id=&#34;54军用系列和74商用系列&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#54军用系列和74商用系列&#34;&gt;#&lt;/a&gt; 54军用系列和74商用系列&lt;/h2&gt;
+&lt;h2 id=&#34;工艺分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工艺分类&#34;&gt;#&lt;/a&gt; 工艺分类&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;工艺&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;产品族&lt;/th&gt;
+&lt;th&gt;优点&lt;/th&gt;
+&lt;th&gt;不足&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Bipolar&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;TTL、S、LS、AS、F、ALS、ECL&lt;/td&gt;
+&lt;td&gt;速度快，强电流驱动能力，工艺简单&lt;/td&gt;
+&lt;td&gt;功耗较大，集成度相对较低&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;CMOS&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;HC、HCT、CD4000、ACL、FCT、LVC、LV、CBT、ALVC、AHC、AHCT、CBTLV、AVC、GTLP&lt;/td&gt;
+&lt;td&gt;功耗低、抗干扰能力强，集成度高&lt;/td&gt;
+&lt;td&gt;输入电流过大(≥40mA)容易造成锁定效应，造成芯片烧毁&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;BiCMOS&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;BCT、ABT、LVT、ALVT&lt;/td&gt;
+&lt;td&gt;高速度，低功耗&lt;/td&gt;
+&lt;td&gt;工艺极其复杂，造价昂贵&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+        <category term="器件学习" scheme="https://www.zsphere.top/categories/component/" />
+        <category term="逻辑器件" scheme="https://www.zsphere.top/categories/component/logic/" />
+        <updated>2025-09-09T13:52:37.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.zsphere.top/2025/09/09/component/switch/%E5%BC%80%E5%85%B3/</id>
+        <title>开关</title>
+        <link rel="alternate" href="https://www.zsphere.top/2025/09/09/component/switch/%E5%BC%80%E5%85%B3/"/>
+        <content type="html">&lt;h1 id=&#34;轻触开关tactile-switch&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#轻触开关tactile-switch&#34;&gt;#&lt;/a&gt; 轻触开关(Tactile Switch)&lt;/h1&gt;
+&lt;h2 id=&#34;定义与核心特征&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#定义与核心特征&#34;&gt;#&lt;/a&gt; 定义与核心特征&lt;/h2&gt;
+&lt;p&gt;瞬时接触型电子开关&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;瞬时动作：仅在施加外部压力(通常为手指按压)时导通电路，撤去压力后凭借内部弹性结构(多为金属弹片)自动复位断开电路。不具备自锁功能&lt;/li&gt;
+&lt;li&gt;触感反馈：内部弹片结构在按压行程中产生形变，当达到临界点(操作力点)时突然“塌陷”，提供清晰可辨的“咔嗒”触感(Tactile Feedback)和声音反馈(Click Sound)，明确指示开关已被有效触发&lt;/li&gt;
+&lt;li&gt;小行程、低操作力：按键行程(Travel)通常短小(0.1mm~1mm)，所需操作力(Operating Force)较低(几十克力&lt;a href=&#34;%E8%A1%A8%E7%A4%BA%E4%B8%80%E5%85%8B%E7%89%A9%E4%BD%93%E6%89%80%E5%8F%97%E7%9A%84%E9%87%8D%E5%8A%9B%EF%BC%8CG=mg%EF%BC%8Cg=9.8%E7%89%9B/%E5%8D%83%E5%85%8B%EF%BC%8C%E6%89%80%E4%BB%A51000%E5%85%8B%E5%8A%9B=9.81%E7%89%9B%E9%A1%BF%EF%BC%8C%E5%8D%B31000gf=9.81N%EF%BC%8C1N=102gf&#34;&gt;^1&lt;/a&gt;~几百克力)，适合频繁、快速操作&lt;/li&gt;
+&lt;li&gt;紧凑尺寸：体积小巧、封装形式多样(SMT、THT)，高度集成化，适应现代电子产品微型化需求&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;工作原理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工作原理&#34;&gt;#&lt;/a&gt; 工作原理&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;初始状态(释放状态-off)
+&lt;ul&gt;
+&lt;li&gt;内部拱形金属弹片(Dome)处于自然拱起状态&lt;/li&gt;
+&lt;li&gt;弹片与底部固定触点(Common Terminal,C)保持接触，但与另一个固定触点(Normally Open Terminal,NO)之间存在微小间隙&lt;/li&gt;
+&lt;li&gt;电路处于开路状态(C与NO断开)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;按压过程
+&lt;ol&gt;
+&lt;li&gt;手指施加垂直向下的力于按键帽(Button/Plunger)&lt;/li&gt;
+&lt;li&gt;压力通过按键帽传递至弹片顶部&lt;/li&gt;
+&lt;li&gt;弹片在压力下逐渐向下弹性形变(储存势能)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;临界触发点(操作力点-Actuation Point)
+&lt;ol&gt;
+&lt;li&gt;当压力达到并超过弹片的临界屈曲力时，弹片结构失稳，瞬间从拱形“塌陷”成反向凹形或平直状态&lt;/li&gt;
+&lt;li&gt;此瞬间动作产生明显的“咔嗒”触感和声音&lt;/li&gt;
+&lt;li&gt;弹片底部(或与弹片相连的动触点)迅速与NO触点接触&lt;/li&gt;
+&lt;li&gt;电路导通(C与NO连通)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;复位过程(释放状态恢复-Reset)
+&lt;ol&gt;
+&lt;li&gt;撤去手指压力&lt;/li&gt;
+&lt;li&gt;储存于弹片中的弹性势能释放。驱动弹片迅速向上回弹&lt;/li&gt;
+&lt;li&gt;弹片恢复初始拱形状态，脱离与NO触点的接触、&lt;/li&gt;
+&lt;li&gt;电路恢复开路状态(C与NO断开)&lt;br /&gt;
+&lt;strong&gt;关键点&lt;/strong&gt;：弹片的材料、形状(圆形、十字形、四腿形等)、厚度、拱高设计是决定操作力、行程、触感、回弹力、寿命的核心因素&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#结构&#34;&gt;#&lt;/a&gt; 结构&lt;/h2&gt;
+&lt;p&gt;典型SMT贴片轻触开关：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;上盖/外壳(Housing/Cover)
+&lt;ul&gt;
+&lt;li&gt;材质：耐高温绝缘材料(如PBT、LCP、PA66)，提供结构支撑、电气绝缘和环境保护&lt;/li&gt;
+&lt;li&gt;功能：固定内部组件，提供按键帽的导向和行程限制，防止灰尘、液体侵入(防护等级依据设计而定)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;按键帽/柱塞(Button/Plunger)
+&lt;ul&gt;
+&lt;li&gt;材质：工程塑料或金属(不锈钢)，顶部常覆有硅胶或其他材质材料以提升触感或密封性&lt;/li&gt;
+&lt;li&gt;功能：直接承受用户按压，将力传递至弹片，其形状(平顶、凸顶、十字形)影响按压体验&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;金属弹片(Dome/Snap Disc)
+&lt;ul&gt;
+&lt;li&gt;材质：不锈钢(SUS 301、SUS 304最常见)，有时镀金(Au)或镀银(Ag)以提升导电性和耐腐蚀性&lt;/li&gt;
+&lt;li&gt;功能：提供触感反馈、触发电路通断、产生回弹力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;基板/底座(Base)
+&lt;ul&gt;
+&lt;li&gt;材质：绝缘材料(如FR4环氧树脂板、耐高温塑料)或金属(接地用)&lt;/li&gt;
+&lt;li&gt;功能：承载固定触点(端子)，提供与PCB焊接的界面&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;固定触点(Terminals)
+&lt;ul&gt;
+&lt;li&gt;端子类型：SMT贴片端子(鸥翼型、J型)、DIP插件端子。通常为黄铜或磷青铜基材，表面镀层(锡、金、银)以提高可焊性、导电性和耐腐蚀性&lt;/li&gt;
+&lt;li&gt;触点定义：
+&lt;ul&gt;
+&lt;li&gt;公共端(Common,C/COM)：始终与弹片(动触点)接触&lt;/li&gt;
+&lt;li&gt;常开端(Normally Open,NO)：常态下与弹片(动触点)断开，按压导通时连通&lt;/li&gt;
+&lt;li&gt;(部分开关有常闭端(Normally Closed,NC)，轻触开关中较少见)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;内部空间/腔体(Cavity)
+&lt;ul&gt;
+&lt;li&gt;功能：容纳弹片并提供其动作空间。设计影响弹片动作顺畅度和防尘能力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;辅助部件(可选)
+&lt;ul&gt;
+&lt;li&gt;密封圈(Sealing Ring/Gasket)：硅胶或橡胶材质，用于提升防水防尘等级(如IP67)&lt;/li&gt;
+&lt;li&gt;粘性背胶(Adhesive Tape)：用于面板安装固定&lt;/li&gt;
+&lt;li&gt;防护盖/薄膜(Protective Cover/Film)：防止异物进入或作为面板的一部分&lt;br /&gt;
+&lt;strong&gt;结构设计趋势&lt;/strong&gt;&lt;br /&gt;
+更薄型化(Low Profile)、更小尺寸、更高防护等级、更优触感一致性、更易自动化贴装&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;类型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#类型&#34;&gt;#&lt;/a&gt; 类型&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;按安装方式
+&lt;ol&gt;
+&lt;li&gt;贴片型(SMT-Surface Mount Technology)&lt;/li&gt;
+&lt;li&gt;优势&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;按按键高度/行程&lt;/li&gt;
+&lt;li&gt;按按键顶部形状&lt;/li&gt;
+&lt;li&gt;按触感反馈特性&lt;/li&gt;
+&lt;li&gt;按防护等级&lt;/li&gt;
+&lt;li&gt;按特殊功能&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+        <category term="器件学习" scheme="https://www.zsphere.top/categories/component/" />
+        <category term="开关" scheme="https://www.zsphere.top/categories/component/switch/" />
+        <updated>2025-09-09T13:50:22.000Z</updated>
+    </entry>
     <entry>
         <id>https://www.zsphere.top/2025/09/06/special/note%E6%8F%90%E9%86%92%E5%9D%97/</id>
         <title>note提醒块</title>
@@ -482,10 +644,30 @@ H&lt;sub&gt;2&lt;/sub&gt;0&lt;br /&gt;
 印刷电路板组装件，将电子元件通过焊接工艺固定到PCB上的成品&lt;/li&gt;
 &lt;li&gt;PCB(Printed Circuit Board)&lt;br /&gt;
 印刷电路板，由绝缘基材、导电线路和焊盘组成的三维结构载体&lt;/li&gt;
-&lt;li&gt;PDM(Product Data Management)/PLM(Product Lifecycle Management)&lt;/li&gt;
+&lt;li&gt;PDM(Product Data Management)/PLM(Product Lifecycle Management)&lt;br /&gt;
+产品数据管理/产品生命周期管理&lt;/li&gt;
 &lt;li&gt;CIS(Component Information System)&lt;br /&gt;
 cadence 元器件库管理&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;Typ(Typical)&lt;br /&gt;
+典型值&lt;/li&gt;
+&lt;li&gt;EVT(Engineering Verification Test)&lt;br /&gt;
+工程验证测试阶段，电子方案验证&lt;/li&gt;
+&lt;li&gt;DVT(Design Verification Test)&lt;br /&gt;
+设计验证测试阶段&lt;/li&gt;
+&lt;li&gt;PVT(Production Verification Test)&lt;br /&gt;
+生产验证测试阶段，制程验证&lt;/li&gt;
+&lt;li&gt;MVT(Mass-Production Verification Test)&lt;br /&gt;
+量产验证测试&lt;/li&gt;
+&lt;li&gt;TVS(Transient Voltage Suppressor)&lt;br /&gt;
+瞬态抑制二极管&lt;/li&gt;
+&lt;li&gt;ESD(Electro-Static Discharge)&lt;br /&gt;
+静电放电，两种带电材料或物体之间由接触、短路或电介质击穿引起的瞬时电流流动；气压、温度和湿度等因素会影响电场强度；造成所有电子元器件或集成电路系统过度电应力破坏的主要元凶，损伤毁灭性和永久性，会造成电路直接烧毁&lt;/li&gt;
+&lt;li&gt;EMC(Electro Magnetic Compatibility)&lt;br /&gt;
+电磁兼容，对电子产品在电磁场方面干扰大小(EMI)和抗干扰能力(EMS)的综合评定&lt;/li&gt;
+&lt;li&gt;IMU(Inertial Measurement Unit)&lt;br /&gt;
+惯性测量单元，电子设备，用于测量和报告物体的三个基本线性运动(加速度)和三个基本角运动(角速度)&lt;/li&gt;
+&lt;li&gt;HUB&lt;br /&gt;
+集线器&lt;/li&gt;
 &lt;/ol&gt;
 </content>
         <updated>2025-09-02T13:46:05.000Z</updated>
@@ -707,11 +889,8 @@ PN结掺杂浓度高，所加反向电压较低，阻挡层很薄，如稳压管
 &lt;li&gt;无序列表3&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol&gt;
-&lt;li&gt;有序列表1
-&lt;ol&gt;
-&lt;li&gt;有序列表1.1&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
+&lt;li&gt;有序列表1&lt;br /&gt;
+2. 有序列表1.1&lt;/li&gt;
 &lt;li&gt;有序列表2&lt;/li&gt;
 &lt;li&gt;有序列表3&lt;/li&gt;
 &lt;/ol&gt;
@@ -761,8 +940,6 @@ PN结掺杂浓度高，所加反向电压较低，阻挡层很薄，如稳压管
 &lt;/table&gt;
 &lt;p&gt;dsad&lt;/p&gt;
 &lt;p&gt;使用Markdown&lt;a href=&#34;Markdown%E6%98%AF%E4%B8%80%E7%A7%8D%E7%BA%AF%E6%96%87%E6%9C%AC%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80&#34;&gt;^1&lt;/a&gt;可以效率的书写文档，直接转换成HTML[&lt;sup&gt;2]，你可以使用Typora[&lt;/sup&gt;T]编辑器进行书写&lt;/p&gt;
-&lt;p&gt;[^2]:HyperText Mrakup Language 超文本标记语言&lt;br /&gt;
-[^T]:NEW WAY TO READ &amp;amp; WRITE MARKDOWN&lt;/p&gt;
 &lt;p&gt;\&lt;/p&gt;
 &lt;p&gt;*&lt;/p&gt;
 &lt;p&gt;-&lt;/p&gt;
@@ -792,6 +969,8 @@ PN结掺杂浓度高，所加反向电压较低，阻挡层很薄，如稳压管
 &amp;lt;/tr&amp;gt;&lt;br /&gt;
 &amp;lt;/table&amp;gt;&lt;/p&gt;
 &lt;p&gt;&amp;lt;font face=&amp;quot;楷体&amp;quot; color=#00ffff size=5&amp;gt;改变文字格式&amp;lt;/font&amp;gt;&lt;/p&gt;
+&lt;p&gt;[^2]: HyperText Mrakup Language 超文本标记语言&lt;br /&gt;
+[^T]: NEW WAY TO READ &amp;amp; WRITE MARKDOWN&lt;/p&gt;
 </content>
         <category term="markdown" scheme="https://www.zsphere.top/tags/markdown/" />
         <updated>2025-09-01T12:33:06.000Z</updated>
